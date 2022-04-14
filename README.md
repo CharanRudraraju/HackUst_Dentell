@@ -29,6 +29,3 @@ When was the last time your tooth was throbbing and yet you decided to skip the 
 3. YOLOV3 - Computer Vision
 4. Flutter - App Development
 5. Figma - App Developement / Design
-
-## Link
-- https://youtu.be/5N0vuLrVoSc
