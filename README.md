@@ -23,6 +23,10 @@ When was the last time your tooth was throbbing and yet you decided to skip the 
 ![Educational Resources](./images/resources.jpeg)
 ### 3. Long term personalised tracking of dental health through treatment and recovery
 ![Long term monitoring](./images/monitor.jpeg)
+
+## Test the app
+For testing the UI, download the project and open the app sub folder in android studio. Make sure flutter and dart are installed to run the project. Once you are in android studio in app folder, you can build the project and it opens a virtual emulator if you enabled it or you can view it in a mobile device. 
+- 
 ## Tech used
 1. flask - ML/Backend
 2. InceptionResNetV2 - ML 
